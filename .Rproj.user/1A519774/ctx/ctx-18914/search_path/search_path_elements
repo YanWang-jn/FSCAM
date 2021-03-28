@@ -1,0 +1,15 @@
+.GlobalEnv
+package:FSCAM
+package:roxygen2
+package:devtools
+package:usethis
+devtools_shims
+tools:rstudio
+package:stats
+package:graphics
+package:grDevices
+package:utils
+package:datasets
+package:methods
+Autoloads
+package:base

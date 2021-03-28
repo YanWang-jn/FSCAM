@@ -1,0 +1,7 @@
+FSCAM="D:/R-4.0.3/library/FSCAM"
+datasets="D:/R-4.0.3/library/datasets"
+grDevices="D:/R-4.0.3/library/grDevices"
+graphics="D:/R-4.0.3/library/graphics"
+methods="D:/R-4.0.3/library/methods"
+stats="D:/R-4.0.3/library/stats"
+utils="D:/R-4.0.3/library/utils"

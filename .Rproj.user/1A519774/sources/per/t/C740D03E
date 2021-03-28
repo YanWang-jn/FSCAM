@@ -1,0 +1,23 @@
+{
+    "id": "C740D03E",
+    "path": "D:/FSCAM/FSCAM/man/SCC_FSCAM.Rd",
+    "project_path": "man/SCC_FSCAM.Rd",
+    "type": "r_doc",
+    "hash": "1212766633",
+    "contents": "",
+    "dirty": false,
+    "created": 1616858730327.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {},
+    "folds": "",
+    "lastKnownWriteTime": 1616855000,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1616855000,
+    "read_only": true,
+    "read_only_alternatives": [
+        "R/SCC_FSCAM.R"
+    ]
+}

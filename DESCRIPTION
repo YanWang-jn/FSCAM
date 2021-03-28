@@ -1,0 +1,14 @@
+Package: FSCAM
+Type: Package
+Title: FSCAM: CAM-based feature selection for clustering scRNA-seq 
+Version: 0.1.0
+Author: Yan Wang, Jie Gao
+Maintainer: Jie Gao <gaojie@jiangnan.edu.cn>
+Description: FSCAM enables users to easily select features from single-cell RNA sequencing.
+    It can also automatically determine the cluster number and accurately identify the cell types.
+Depends: R(>= 3.5.0)
+License: GPL(>=2)
+Imports: psych, factoextra, sampling, cluster, MASS, geometry, nnls, fpc
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
